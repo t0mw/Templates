@@ -1,0 +1,2 @@
+Simple C "templates". Not really consistent about coding convention (todo, maybe). I have tested all of those in valgrind, and used some of them in larger projects.
+
